@@ -1,6 +1,9 @@
 #include <iostream>
-
+#include <string>
+using namespace std;
 int main() 
-{
-  std::cout << "I\n";
+{ int len;
+sting="CisBest";
+
 }
+
